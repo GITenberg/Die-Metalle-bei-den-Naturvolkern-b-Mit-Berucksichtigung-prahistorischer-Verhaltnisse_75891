@@ -1,0 +1,32 @@
+_repo: Die-Metalle-bei-den-Naturvolkern-b-Mit-Berucksichtigung-prahistorischer-Verhaltnisse_75891
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Andree, Richard
+    birthdate: 1835
+    deathdate: 1912
+    gutenberg_agent_id: '34872'
+    url: http://www.gutenberg.org/2009/agents/34872
+    wikipedia: http://de.wikipedia.org/wiki/Richard_Andree
+description: ''
+gutenberg_issued: '2025-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75891'
+language: de
+pgterms:marc904: https://publikationsserver.tu-braunschweig.de/receive/dbbs_mods_00041769
+pgterms:marc905: 20220828112758andree
+pgterms:marc906: '1884'
+pgterms:marc907: de
+production_note: Peter Becker, Iris Schröder-Gehring and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLeipzig :$bVerlag von Veit & Comp., $c1884.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Die Metalle bei den Naturvölkern : $b Mit Berücksichtigung prähistorischer
+  Verhältnisse'
+url: http://www.gutenberg.org/ebooks/75891
