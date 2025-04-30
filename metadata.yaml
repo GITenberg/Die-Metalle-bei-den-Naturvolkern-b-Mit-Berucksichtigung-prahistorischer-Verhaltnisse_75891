@@ -1,5 +1,8 @@
 _repo: Die-Metalle-bei-den-Naturvolkern-b-Mit-Berucksichtigung-prahistorischer-Verhaltnisse_75891
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75891-h/images/cover.jpg
 creator:
   author:
     agent_name: Andree, Richard
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34872
     wikipedia: http://de.wikipedia.org/wiki/Richard_Andree
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75891#Die-Metalle-bei-den-Naturvolkern-b-Mit-Berucksichtigung-prahistorischer-Verhaltnisse
 gutenberg_issued: '2025-04-17'
 gutenberg_type: Text
 identifiers:
